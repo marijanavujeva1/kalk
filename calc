@@ -5,9 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>calculator</title>
     <link rel="stylesheet" href="css.css">
-</head>
-<body>
-{
+    <style>
+    {
     padding: 0;
     margin: 5px;
     text-align: center;
@@ -66,6 +65,10 @@
     width: 50px;
     height: 25px;
   }
+  </style>
+</head>
+<body>
+
     <form name="sci-calc"></form>
     <table class="calculator" cellspacing="0" cellpadding="1">
         <tr>

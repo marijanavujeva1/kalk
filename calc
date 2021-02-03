@@ -185,9 +185,9 @@ function checkNum(str) {
 			}
 		}
 		return true
-}
+} 
 </script>
-    </tabel>
+ </tabel>
 </form>
 </body>
 </html>
